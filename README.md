@@ -7,3 +7,4 @@ ones againe no idea
 ## Local chenges dev
 
 1. Open html in browser
+2. NNNT
